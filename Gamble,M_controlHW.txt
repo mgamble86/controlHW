@@ -1,0 +1,13 @@
+Hello exercise
+1. 14
+2. 4
+3. 5
+4. 5
+5. 8
+
+fooXX exercise
+1. returns the square root of x
+2. returns the larger of the two values x and y
+3. returns x, y and in numeric order
+4. returns the factorial of x
+5. also returns the factorial of x
